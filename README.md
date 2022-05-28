@@ -6,7 +6,7 @@
 
 Este repositório começou como uma ideia de ser um repositório pessoal dedicado a registrar comandos, atalhos de ferramentas, dicas e soluções de problemas que me deparei nas mais diversas ferramentas, e que provavelmente irei esquecer 😬.
 
-Após ver muitas pessoas nos grupos de bootcamps com dificuldades com comandos git, decidi tornar esse repositório mais abrangente e que sirva não só a mim, mas também a comunidade. Dessa forma esse agora passa a ser um repositório colaborativo.
+Após ver muitas pessoas nos grupos de bootcamps com dificuldades com comandos git, decidi tornar esse repositório mais abrangente e que sirva não só a mim, mas também a comunidade. Dessa forma esse agora passa a ser um **repositório colaborativo**.
 
 &nbsp;
 
@@ -15,3 +15,8 @@ Para cada ocasião/ferramenta será criada uma pasta especifica, contendo um ún
 &nbsp;
 
 Tentarei manter as informações sempre atualizadas e especificando as versões dos softwares, tentarei 😬.
+
+&nbsp;
+
+## Única regra:
+Manter o repositório organizado. 😉
