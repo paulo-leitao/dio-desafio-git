@@ -6,7 +6,7 @@ Comandos/Atalhos | Descrição
 `code .`| Abre uma instância do VS Code no diretório em questão
 _Alt + &#8593;_| Move a linha de código em evidência para cima ou para baixo
 _Ctrl + K, Ctrl + F_ | Um Prettify para formatar o código selecionado
-_Shift + Alt + Arrow_up/down_ | Duplica a linha em evidência, para cima ou para baixo
+_Shift + Alt + &#8593; / &#8595;_ | Duplica a linha em evidência, para cima ou para baixo
 _Ctrl + Shift + K_ | Deleta a linha em evidência
 _Ctrl + '_ | Abre o terminal
 _Ctrl + ;_ | Comenta/descomenta a linha em evidência
