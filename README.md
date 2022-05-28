@@ -20,3 +20,13 @@ Tentarei manter as informações sempre atualizadas e especificando as versões 
 
 ## Única regra:
 Manter o repositório organizado. 😉
+
+**Exemplo de organização das pastas:**
+
+![](organizacao.png)
+
+&nbsp;
+
+**Exemplo de organização dos arquivos `*.md`:**
+
+![](example.png)
