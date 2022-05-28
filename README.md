@@ -23,7 +23,7 @@ Manter o repositório organizado. 😉
 
 **Exemplo de organização das pastas:**
 
-![](organizacao.png)
+![](folders.png)
 
 &nbsp;
 
